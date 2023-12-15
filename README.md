@@ -11,6 +11,10 @@
 ## 🔗相関リンク
 
 <p>
-    <img src="https://kashinavi.com/img/kashinavi.gif" alt="" width="20">
+    <img src="https://kashinavi.com/img/kashinavi.gif" alt="" height="16">
     <a href="https://kashinavi.com">歌詞ナビ</a>
+</p>
+<p>
+    <img src="https://cdn.utaten.com/images/pc/header/logo.png" alt="" height="16">
+    <a href="https://utaten.com/">UtaTen</a>
 </p>
