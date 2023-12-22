@@ -1,4 +1,4 @@
-# ASIAN KUNG-FU GENERATION - 転がる岩、君に朝が降る
+# 転がる岩、君に朝が降る - ASIAN KUNG-FU GENERATION
 
 - 出来れば世界を僕は塗り変えたい  
   戦争をなくすような<ruby><rb>大逸</rb><rt>だいそ</rt></ruby>れたことじゃない  
