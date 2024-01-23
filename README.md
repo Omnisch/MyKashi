@@ -2,12 +2,13 @@
 
 ## 🎇アニうた
 
+- [MyGo!!!!! - 栞](ja/shiori.md)
 - [MyGo!!!!! - 春日影](ja/haruhikage.md)
 - [女王蜂 - 01](ja/01.md)
 
 ## 🎏アニメ以外
 
-- [ASIAN KUNG-FU GENERATION - 転がる岩、君に朝が降る](ja/korogaruiwa-kiminiasagafuru.md)
+- [AKG - 転がる岩、君に朝が降る](ja/korogaruiwa-kiminiasagafuru.md)
 - [布施明－君は薔薇より美しい](ja/kimiha-barayori-utukushii.md)
 
 ## 🔗相関リンク
