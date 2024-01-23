@@ -8,8 +8,8 @@
 
 ## 🎏アニメ以外
 
-- [AKG - 転がる岩、君に朝が降る](ja/korogaruiwa-kiminiasagafuru.md)
-- [布施明－君は薔薇より美しい](ja/kimiha-barayori-utukushii.md)
+- [AKG - 転がる岩、君に朝が降る](ja/korogaruiwa.md)
+- [布施明－君は薔薇より美しい](ja/kimihabara.md)
 
 ## 🔗相関リンク
 
