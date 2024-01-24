@@ -12,6 +12,7 @@
 - [AKG - 転がる岩、君に朝が降る](ja/korogaruiwa.md)
 - [サカナクション - 新宝島](ja/shintakarajima.md)
 - [布施明－君は薔薇より美しい](ja/kimihabara.md)
+- [松原みき - 真夜中のドア ～Stay with me～](ja/mayonakanodoa.md)
 - [宮本浩次 - 冬の花](ja/fuyunohana.md)
 
 ## 🔗相関リンク
