@@ -1,9 +1,10 @@
-# 歌詞一覧
+# 歌詞一覧[^1]
 
 ## 🎇アニうた
 
 - [MyGo!!!!! - 栞](ja/shiori.md)
 - [MyGo!!!!! - 春日影](ja/haruhikage.md)
+- [RADWIMPS - 前前前世](ja/zenzenzense.md)
 - [女王蜂 - 01](ja/01.md)
 
 ## 🎏アニメ以外
@@ -23,3 +24,5 @@
     <img src="https://cdn.utaten.com/images/pc/header/logo.png" alt="" height="16">
     <a href="https://utaten.com/">UtaTen</a>
 </p>
+
+[^1]: 順位説明：歌手優先；0~9Aa~Zzあア阿~んン
