@@ -2,11 +2,12 @@
 
 ## 🎇アニうた
 
+- [BiSH - **innocent arrogance**](ja/innocent_arrogance.md)
 - [MyGo!!!!! - **栞**](ja/shiori.md)
 - [MyGo!!!!! - **春日影**](ja/haruhikage.md)
 - [RADWIMPS - **前前前世**](ja/zenzenzense.md)
 - [女王蜂 - **01**](ja/01.md)
-- [ヨルシカ - 斜陽](ja/syayou.md)
+- [ヨルシカ - **斜陽**](ja/syayou.md)
 
 ## 🎏アニメ以外
 
