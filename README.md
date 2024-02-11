@@ -3,6 +3,7 @@
 ## 🎇アニうた
 
 - [BiSH - **innocent arrogance**](ja/innocent_arrogance.md)
+- [LONGMAN - **Spiral**](ja/spiral.md)
 - [MyGo!!!!! - **栞**](ja/shiori.md)
 - [MyGo!!!!! - **春日影**](ja/haruhikage.md)
 - [RADWIMPS - **前前前世**](ja/zenzenzense.md)
